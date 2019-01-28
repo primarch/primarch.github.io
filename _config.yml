@@ -1,5 +1,6 @@
 # General Jekyll Config
 highlighter: rouge
-url: http://example.com
+theme: jekyll-theme-midnight
+url: https://jangam.tech
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
